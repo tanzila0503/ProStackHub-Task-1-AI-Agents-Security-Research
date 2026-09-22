@@ -42,25 +42,13 @@ This article explores:
 🧪 Red-team testing
 🌐 The role of MCP in connecting AI systems with tools
 
----
-
-## 💡 Key Idea
-
-> **AI assistants answer. AI agents can act.**
-
-That difference creates both new opportunities and new security challenges.
-
-A conventional AI assistant may provide an incorrect answer.
-
-An AI agent may take an incorrect action based on that answer.
-
 ___
 
 🤖 What Are AI Agents?
 
 AI agents are AI-powered systems that can reason about goals, plan steps, use tools, maintain relevant context, and take actions to accomplish tasks.
 
-«A chatbot mainly answers. An AI agent can act.»
+> **AI assistants answer. AI agents can act.**
 
 Unlike a simple calculator or chatbot, an AI agent can potentially understand a goal, decide what steps are required, interact with external tools, and complete part of the task.
 
