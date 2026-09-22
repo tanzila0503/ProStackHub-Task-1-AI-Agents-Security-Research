@@ -291,7 +291,6 @@ Building safer AI agents requires appropriate permissions, human oversight, moni
 
 <p align="center">
   <strong>Tanzila Anwar</strong><br>
-  BS English Student<br>
   Content Writing & Research Intern<br>
   PROSTACKHUB Internship Program
 </p><p align="center">
