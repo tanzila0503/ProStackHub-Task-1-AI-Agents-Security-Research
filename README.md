@@ -26,18 +26,35 @@ Program: PROSTACKHUB Internship Program
 
 📌 Task Overview
 
-Task 1 is a research-based explainer examining how AI agents differ from traditional AI assistants, how they interact with external tools, and why increased autonomy creates new security challenges.
+AI is increasingly moving beyond systems that simply answer questions.
 
-The project combines:
+AI agents can reason about a goal, plan multiple steps, use external tools, maintain context, and take actions on behalf of users.
 
-- Research-based technical writing
-- Primary-source research
-- Fact-checking
-- AI security analysis
-- Evidence-based explanation
-- Reference management
+This article explores:
+
+🧠 What AI agents are
+🔧 How agents use external tools
+📈 Why agentic AI is becoming important
+🛡️ The security risks created by autonomous actions
+⚠️ Prompt injection and agent hijacking
+🔐 Least privilege and access control
+👤 Human approval and monitoring
+🧪 Red-team testing
+🌐 The role of MCP in connecting AI systems with tools
 
 ---
+
+## 💡 Key Idea
+
+> **AI assistants answer. AI agents can act.**
+
+That difference creates both new opportunities and new security challenges.
+
+A conventional AI assistant may provide an incorrect answer.
+
+An AI agent may take an incorrect action based on that answer.
+
+___
 
 🤖 What Are AI Agents?
 
