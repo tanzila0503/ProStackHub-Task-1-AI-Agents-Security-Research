@@ -138,18 +138,19 @@ MCP is especially relevant to AI agents, which may need external tools and data 
 
 🔐 The New Security Challenge
 
-When an AI system gains access to external information and tools, security risks can extend beyond incorrect answers.
+The ability to act creates a new attack surface.
 
-An attacker may attempt to influence an AI agent through malicious instructions placed inside information the agent processes.
+One important example is prompt injection.
 
-Examples include:
+An attacker may place malicious instructions inside content that an AI agent reads, such as:
 
-- 🌐 Webpages
-- 📧 Emails
-- 📄 Documents
-- 📁 External files
-- 🔗 Tool outputs
-- 📝 Other external content
+🌐 Web pages
+📧 Emails
+📄 Documents
+📝 Retrieved content
+🗂️ External data
+
+The malicious instructions may attempt to manipulate the agent into performing an unintended action.
 
 ---
 
