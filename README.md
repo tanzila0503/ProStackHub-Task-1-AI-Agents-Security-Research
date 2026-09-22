@@ -166,15 +166,16 @@ The problem becomes more serious for AI agents because the system may have acces
 
 NIST has examined AI agent hijacking, where malicious instructions inserted into information available to an agent can influence the agent's behavior.
 
+```mermaid
 flowchart TD
-    A[AI Agent] --> B[External Information]
-    B --> C{Malicious Instruction?}
-
-    C -->|No| D[Normal Processing]
-    C -->|Yes| E[Prompt Injection]
-
-    E --> F[Agent Hijacking]
-    F --> G[Unintended Action]
+    A[🌐 External Content] --> B[Malicious Instruction]
+    B --> C[🤖 AI Agent Reads Content]
+    C --> D{Instruction Trusted?}
+    D -->|Unsafe| E[⚠️ Agent Hijacking]
+    E --> F[🔓 Unintended Action]
+    D -->|Protected| G[🛡️ Instruction Isolated]
+```
+NIST describes agent hijacking as a form of indirect prompt injection in which malicious instructions are inserted into data consumed by an AI agent.
 
 ---
 
