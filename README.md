@@ -286,14 +286,15 @@ mindmap
 
 🔄 Research Workflow
 
+```mermaid
 flowchart LR
-    A[Topic Selection] --> B[Source Research]
-    B --> C[Claim Identification]
-    C --> D[Fact Checking]
-    D --> E[Article Development]
-    E --> F[Security Analysis]
-    F --> G[Final Review]
-    G --> H[Task Submission]
+    A[Research] --> B[Source Verification]
+    B --> C[Article Draft]
+    C --> D[Fact Check]
+    D --> E[Visual Development]
+    E --> F[Final Review]
+    F --> G[GitHub Documentation]
+```
 
 ---
 
