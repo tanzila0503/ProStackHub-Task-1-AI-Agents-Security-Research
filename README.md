@@ -144,11 +144,11 @@ One important example is prompt injection.
 
 An attacker may place malicious instructions inside content that an AI agent reads, such as:
 
-🌐 Web pages
-📧 Emails
-📄 Documents
-📝 Retrieved content
-🗂️ External data
+🌐 **Web pages**
+📧 **Emails**
+📄 **Documents**
+📝 **Retrieved content**
+🗂️ **External data**
 
 The malicious instructions may attempt to manipulate the agent into performing an unintended action.
 
