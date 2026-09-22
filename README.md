@@ -87,14 +87,14 @@ The general workflow can involve a user request, planning, tool selection, inter
 
 AI agents can potentially interact with:
 
-- 📧 Email
-- 📅 Calendars
-- 🌐 Web browsers
-- 💻 Software development tools
-- 🛒 Online services
-- 📁 Files
-- 🔗 External data sources
-- 🧰 Connected tools and APIs
+- 📧 **Email**
+- 📅 **Calendars**
+- 🌐 **Web browsers**
+- 💻 **Software development tools**
+- 🛒 **Online services**
+- 📁 **Files**
+- 🔗 **External data sources**
+- 🧰 **Connected tools and APIs**
 
 This creates opportunities for automation and productivity, but it also introduces additional security considerations.
 
