@@ -32,15 +32,15 @@ AI agents can reason about a goal, plan multiple steps, use external tools, main
 
 This article explores:
 
--🧠 What AI agents are
--🔧 How agents use external tools
--📈 Why agentic AI is becoming important
--🛡️ The security risks created by autonomous actions
--⚠️ Prompt injection and agent hijacking
--🔐 Least privilege and access control
--👤 Human approval and monitoring
--🧪 Red-team testing
--🌐 The role of MCP in connecting AI systems with tools
+- 🧠 **What AI agents are**
+- 🔧 **How agents use external tools**
+- 📈 **Why agentic AI is becoming important**
+- 🛡️ **The security risks created by autonomous actions**
+- ⚠️ **Prompt injection and agent hijacking**
+- 🔐 **Least privilege and access control**
+- 👤 **Human approval and monitoring**
+- 🧪 **Red-team testing**
+- 🌐 **The role of MCP in connecting AI systems with tools**
 
 ___
 
