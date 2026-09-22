@@ -112,20 +112,22 @@ This development is relevant to AI agents because stronger reasoning and task pe
 
 🔌 Model Context Protocol (MCP)
 
-Model Context Protocol (MCP) is an open protocol that provides a standardized way for AI applications to connect with external data sources, tools, and services.
+The **Model Context Protocol (MCP)** is an open protocol that provides a standardized way for AI applications to connect with external data sources, tools, and services.
 
-«💡 Simple analogy: MCP works like a universal adapter that helps AI applications connect with different external capabilities through a common protocol.»
+> 💡 **Simple analogy:** MCP works like a universal adapter that helps AI applications connect with different external capabilities through a common protocol.
 
-🔄 How MCP Works
+### 🔄 How MCP Works
 
+```mermaid
 flowchart LR
     A[AI Application] --> B[MCP]
-    B --> C[Tools]
-    B --> D[Data Sources]
-    B --> E[External Services]
-    C --> F[AI Actions]
+    B --> C[🔧 Tools]
+    B --> D[📁 Data Sources]
+    B --> E[🌐 External Services]
+    C --> F[⚡ AI Actions]
     D --> F
     E --> F
+```
 
 MCP is especially relevant to AI agents, which may need external tools and data to complete multi-step tasks. Because these connections can give agents access to external systems, appropriate permissions and security controls are important.
 
