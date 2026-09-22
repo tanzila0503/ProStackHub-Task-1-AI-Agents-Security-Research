@@ -61,6 +61,7 @@ flowchart LR
     F --> G[📊 Result]
     G --> B
 ```
+The general workflow can involve a user request, planning, tool selection, interaction with external systems, and execution.
 
 ---
 
