@@ -166,12 +166,13 @@ flowchart TD
 
 🛡️ Major Security Risks
 
-Security Risk| Potential Problem| Security Control
-Prompt Injection| Malicious instructions influence agent behavior| Input validation and isolation
-Excessive Permissions| Agent has unnecessary access| Least privilege
-Unauthorized Actions| Agent performs unintended tasks| Human approval
-Data Exposure| Sensitive information may be revealed| Access controls and monitoring
-Tool Misuse| Connected tools may be used improperly| Tool restrictions and auditing
+| Security Risk | Potential Problem | Security Control |
+|---|---|---|
+| Prompt Injection | Malicious instructions influence agent behavior | Input validation and isolation |
+| Excessive Permissions | Agent has unnecessary access | Least privilege |
+| Unauthorized Actions | Agent performs unintended tasks | Human approval |
+| Data Exposure | Sensitive information may be revealed | Access controls and monitoring |
+| Tool Misuse | Connected tools may be used improperly | Tool restrictions and auditing |
 
 ---
 
@@ -179,11 +180,12 @@ Tool Misuse| Connected tools may be used improperly| Tool restrictions and audit
 
 NIST's Center for AI Standards and Innovation (CAISI), together with the UK AI Security Institute and Gray Swan, reported a large-scale red-teaming competition involving frontier AI models.
 
-Research Measure| Reported Figure
-Participants| 400+
-Attack attempts| 250,000+
-Frontier AI models tested| 13
-Models with at least one successful attack| 13
+| Research Measure | Reported Figure |
+|---|---:|
+| Participants | 400+ |
+| Attack attempts | 250,000+ |
+| Frontier AI models tested | 13 |
+| Models with at least one successful attack | 13 |
 
 The results provide evidence that adversarial testing is an important part of evaluating the security of increasingly capable AI systems.
 
@@ -206,42 +208,43 @@ mindmap
 
 🔒 Key Security Principles
 
-Principle| Purpose
-Authentication| Verify users and systems
-Authorization| Control access to resources
-Least Privilege| Give agents only necessary permissions
-Human Approval| Require confirmation for sensitive actions
-Monitoring| Detect unusual or suspicious activity
-Audit Logs| Record agent activity
-Adversarial Testing| Test systems against malicious inputs
-Tool Restrictions| Limit unnecessary or dangerous capabilities
+| Principle | Purpose |
+|---|---|
+| Authentication | Verify users and systems |
+| Authorization | Control access to resources |
+| Least Privilege | Give agents only necessary permissions |
+| Human Approval | Require confirmation for sensitive actions |
+| Monitoring | Detect unusual or suspicious activity |
+| Audit Logs | Record agent activity |
+| Adversarial Testing | Test systems against malicious inputs |
+| Tool Restrictions | Limit unnecessary or dangerous capabilities |
 
 ---
 
 🔎 Research & Fact-Checking
 
-The article was developed using authoritative sources and primary research where available.
-
-Source| Purpose
-"OWASP AI Agent Security Cheat Sheet" (https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html)| AI agent characteristics and security controls
-"NIST — Strengthening AI Agent Hijacking Evaluations" (https://www.nist.gov/news-events/news/2025/01/technical-blog-strengthening-ai-agent-hijacking-evaluations)| Agent hijacking and prompt injection
-"NIST — AI Agent Standards Initiative" (https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure)| AI agent capabilities and standards
-"NIST CAISI — Large-Scale Red-Teaming Competition" (https://www.nist.gov/blogs/caisi-research-blog/insights-ai-agent-security-large-scale-red-teaming-competition)| AI agent security testing
-"Stanford AI Index 2025" (https://hai.stanford.edu/assets/files/hai_ai_index_report_2025.pdf)| AI capability and performance evidence
-"Model Context Protocol" (https://modelcontextprotocol.io/)| AI-tool and data connectivity
-
+| Source | Purpose |
+|---|---|
+| [OWASP AI Agent Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html) | AI agent characteristics and security controls |
+| [NIST — Strengthening AI Agent Hijacking Evaluations](https://www.nist.gov/news-events/news/2025/01/technical-blog-strengthening-ai-agent-hijacking-evaluations) | Agent hijacking and prompt injection |
+| [NIST — AI Agent Standards Initiative](https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure) | AI agent capabilities and standards |
+| [NIST CAISI — Large-Scale Red-Teaming Competition](https://www.nist.gov/blogs/caisi-research-blog/insights-ai-agent-security-large-scale-red-teaming-competition) | AI agent security testing |
+| [Stanford AI Index 2025](https://hai.stanford.edu/assets/files/hai_ai_index_report_2025.pdf) | AI capability and performance evidence |
+| [Model Context Protocol](https://modelcontextprotocol.io/) | AI-tool and data connectivity |
+ 
 ---
 
 ✅ Fact-Check Highlights
 
-Claim| Source| Verification
-AI agents can reason, plan, use tools and take actions| OWASP| ✅ Verified
-AI agents can interact with external systems| NIST| ✅ Verified
-Malicious instructions can influence agent behavior| NIST| ✅ Verified
-Agent hijacking is a documented security concern| NIST| ✅ Verified
-Frontier AI models have been subjected to large-scale red teaming| NIST CAISI| ✅ Verified
-AI capabilities have improved substantially on selected benchmarks| Stanford AI Index| ✅ Verified
-MCP connects AI applications with external tools and data| MCP| ✅ Verified
+| Claim | Source | Verification |
+|---|---|---|
+| AI agents can reason, plan, use tools and take actions | OWASP | ✅ Verified |
+| AI agents can interact with external systems | NIST | ✅ Verified |
+| Malicious instructions can influence agent behavior | NIST | ✅ Verified |
+| Agent hijacking is a documented security concern | NIST | ✅ Verified |
+| Frontier AI models have been subjected to large-scale red teaming | NIST CAISI | ✅ Verified |
+| AI capabilities have improved substantially on selected benchmarks | Stanford AI Index | ✅ Verified |
+| MCP connects AI applications with external tools and data | MCP | ✅ Verified |
 
 ---
 
@@ -253,15 +256,16 @@ MCP connects AI applications with external tools and data| MCP| ✅ Verified
 
 🧠 Skills Demonstrated
 
-Skill| Application
-✍️ Research Writing| Developed a structured AI security explainer
-🔎 Fact-Checking| Verified claims against authoritative sources
-📚 Source Research| Used NIST, OWASP, Stanford HAI and MCP sources
-🧩 Information Structuring| Explained technical concepts in accessible language
-📊 Data Presentation| Used tables to present comparisons and evidence
-🛡️ Technical Research| Investigated AI-agent security risks
-🔗 Reference Management| Organized clickable research sources
-📝 Documentation| Created article and fact-check documentation
+| Skill | Application |
+|---|---|
+| ✍️ Research Writing | Developed a structured AI security explainer |
+| 🔎 Fact-Checking | Verified claims against authoritative sources |
+| 📚 Source Research | Used NIST, OWASP, Stanford HAI and MCP sources |
+| 🧩 Information Structuring | Explained technical concepts in accessible language |
+| 📊 Data Presentation | Used tables to present comparisons and evidence |
+| 🛡️ Technical Research | Investigated AI-agent security risks |
+| 🔗 Reference Management | Organized clickable research sources |
+| 📝 Documentation | Created article and fact-check documentation |
 
 ---
 
