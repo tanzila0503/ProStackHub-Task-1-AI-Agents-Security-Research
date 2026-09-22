@@ -10,7 +10,7 @@
   <br>
   <img src="https://img.shields.io/badge/ROLE-Content%20Writer%20%26%20Researcher-green?style=for-the-badge" alt="Role">
   <img src="https://img.shields.io/badge/STATUS-Completed-success?style=for-the-badge" alt="Status">
-</p>---
+</p>
 
 ---
 
