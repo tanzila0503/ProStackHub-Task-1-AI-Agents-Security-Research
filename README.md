@@ -51,13 +51,14 @@ Unlike a simple calculator or chatbot, an AI agent can potentially understand a 
 
 🔄 AI Agent Workflow
 
+```mermaid
 flowchart LR
-    A[User Goal] --> B[AI Agent]
-    B --> C[Reasoning & Planning]
-    C --> D[Tool Selection]
-    D --> E[External Tools]
-    E --> F[Action]
-    F --> G[Result]
+    A[👤 User Goal] --> B[🧠 AI Agent]
+    B --> C[📋 Plan]
+    C --> D[🔧 Select Tools]
+    D --> E[🌐 External Systems]
+    E --> F[⚡ Action]
+    F --> G[📊 Result]
     G --> B
 
 ---
