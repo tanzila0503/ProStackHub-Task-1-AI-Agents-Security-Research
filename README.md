@@ -60,6 +60,7 @@ flowchart LR
     E --> F[⚡ Action]
     F --> G[📊 Result]
     G --> B
+```
 
 ---
 
