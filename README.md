@@ -295,7 +295,9 @@ Building safer AI agents requires appropriate permissions, human oversight, moni
   PROSTACKHUB Internship Program
 </p><p align="center">
   <em>Research • Writing • Fact-Checking • AI Security</em>
-</p>---
+</p>
+
+---
 
 <p align="center">
   ⭐ <strong>PROSTACKHUB Task 1 — AI Agents & Security Research</strong>
