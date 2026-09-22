@@ -64,13 +64,14 @@ flowchart LR
 
 ⚖️ Traditional AI vs AI Agents
 
-Feature| Traditional AI Assistant| AI Agent
-Main role| Provides responses| Completes goals and tasks
-Tool access| Usually limited| Can use external tools
-Planning| Limited| Can plan multi-step tasks
-Memory/context| Depends on system| Can maintain task context
-Real-world actions| Usually limited| Can potentially take actions
-Security risk| Mainly incorrect information| Incorrect information + unintended actions
+| Feature | Traditional AI Assistant | AI Agent |
+|---|---|---|
+| Main role | Provides responses | Completes goals and tasks |
+| Tool access | Usually limited | Can use external tools |
+| Planning | Limited | Can plan multi-step tasks |
+| Memory/context | Depends on system | Can maintain task context |
+| Real-world actions | Usually limited | Can potentially take actions |
+| Security risk | Mainly incorrect information | Incorrect information + unintended actions |
 
 ---
 
